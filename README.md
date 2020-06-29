@@ -1,2 +1,2 @@
 # spec
-My_first REPO
+My_Repo
